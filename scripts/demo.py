@@ -1,3 +1,3 @@
-from mypackage.calculator import sum
+from demo_package import hello
 
-print(sum(1,2))
+hello.say_hello()
